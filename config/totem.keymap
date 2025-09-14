@@ -81,8 +81,8 @@ label= "BASE"                              ;
 
                 &kp Q       &kp W       &kp E       &kp R       &kp T           &kp Y       &kp U       &kp I       &kp O       &kp BSPC
                 &kp A       &kp S       &kp D       &kp F       &kp G           &kp H       &kp J       &kp K       &kp L       &kp P
-    &kp ESC     &kp Z       &kp X       &kp C       &kp V       &tog ADJ        &tog NAVI   &kp SPACE   &kp B       &kp N       &kp M    &kp RET
-                                        &kp LGUI    &kp LALT    &kp LSHIFT      &mo SYM     &kp LCTRL      &mo NAVI
+    &kp ESC     &kp Z       &kp X       &kp C       &kp V       &tog ADJ        &tog NAV   &kp SPACE   &kp B       &kp N       &kp M    &kp RET
+                                        &kp LGUI    &kp LALT    &kp LSHIFT      &mo SYM     &kp LCTRL      &mo NAV
                         >;
                 };
 
@@ -91,7 +91,7 @@ label= "BASE"                              ;
 
                 nav_layer {
 // ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-label= "NAVI"                              ;
+label= "NAV"                              ;
 // ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 //             ┏━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┓   ┏━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┓
 //             ┃           ┃           ┃     UP    ┃           ┃     {     ┃   ┃     }     ┃     7     ┃     8     ┃     9     ┃     +     ┃
